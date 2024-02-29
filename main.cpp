@@ -1,8 +1,8 @@
 /***********************************
- * @author alkaid
- * @since  2023.2.24
+ * @author uichuan
+ * @since  2023.9.24
  * @brief  本文件对实现的内存分配器进行性能测试
- * @date   2023.3.2
+ * @date   2023.10.2
  ***********************************/
 
 #include <iostream> // std::cout, std::endl
